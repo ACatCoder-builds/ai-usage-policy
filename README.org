@@ -1,2 +1,38 @@
 * AI Usage policy
 My AI usage policy that applies to all my projects, unless stated otherwise.
+
+** License
+This document is in the public domain. 
+Feel free to copy, modify or share this however you want!
+
+*NOTE*: =AI=, =LLM= and =Large Language Model= 
+will be used interchangebly in this document!
+
+** § 1 Projects this applies to
+This policy applies to all of my projects, except stated otherwise in the
+project README. The alternative project policy must be put in the project
+README.
+
+** § 2 Code written by AI
+If a project contains code that is written by a large language model, it needs
+to be stated explicitly in the project README. Any part of a code that is AI must
+be noted with a code comment.
+
+** § 3 Code shared with AI
+Smaller parts of code might be shared with an LLM, or questions about an individual
+question might be asked. This can only be done, however, if the code author has tried
+sufficient other paths to solve the conondrum (look it up in a search engine, check
+the documentation, etc.) 
+
+** § 4 Resources made by AI
+§ 1 applies to any project resource (sound, image, text, music, shaders, logos, etc.)
+
+** § 5 Who this applies to
+These rules apply to any who contributes code to a project, including pull requests.
+If a pull request does not follow the standards laid out in this document, a code writter
+might correct the mistake.
+
+** § 6 Projects done in collaboration
+If a project is done in collaboration with someone, an AI usage policy might be created
+for the project, so that all team members agree to it. This alternative policy must be
+made public and put in the README.

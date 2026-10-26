@@ -1,2 +1,2 @@
-# ai-usage-policy
+* AI Usage policy
 My AI usage policy that applies to all my projects, unless stated otherwise.
